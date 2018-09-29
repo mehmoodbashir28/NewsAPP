@@ -11,7 +11,7 @@ OR
 * Visual Studio 
 ### Acknowledgments 
 this news app contains news of [TalkSport Channel]
-api key taken from this website 
+* api key taken from this website 
 * [News Api](https://newsapi.org/)
 ## Built With
 * HTML
