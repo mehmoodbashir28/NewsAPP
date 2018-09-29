@@ -10,9 +10,9 @@ Thing that are used in this Portfolio:-
 OR
 * Visual Studio 
 ### Acknowledgments 
-this news app contains news of [TalkSport Channel]
+* this news app contains news of [TalkSport Channel]
 * api key taken from this website 
-* [News Api](https://newsapi.org/)
+ [News Api](https://newsapi.org/)
 ## Built With
 * HTML
 * CSS
