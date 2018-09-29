@@ -1,8 +1,4 @@
 # NewsAPP
-this is newsapp under process
-you can see my work here --->  https://mehmoodbashir28.github.io/NewsAPP/.
-
-
 This is a simple one page news app including real information of football news using api key
 ## Prerequisites
 Thing that are used in this Portfolio:-
